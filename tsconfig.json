@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "allowJs": true,
+        "target": "es6",
+        "lib": [
+            "es2016"
+        ],
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "/node_modules/"
+    ]
+}
